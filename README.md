@@ -1,0 +1,2 @@
+# QuickScopeScript
+Buat Pointblank oawkowkwo
